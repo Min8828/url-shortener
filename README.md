@@ -6,8 +6,15 @@
 * 點選 Full URL 或 Short URL 皆可連接至該網站 
 
 ### 學習項目
-* Mongoose: Schema設計、 CRUD 操作
+* Schema設計、 CRUD 操作
 * 從資料庫獲取資料後，使用 EJS 生成 HTML 畫面
+
+### 使用工具
+* Node.js + Express.js
+* Mongoose
+* EJS
+* Bootstrap
+* shortid
 
 ### 未來可以新增功能
 * 刪除表格某一列 URL
